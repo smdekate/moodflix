@@ -1,6 +1,6 @@
 # Moodflix
 
-Moodflix is a React application that allows users to search for movies and view trending films. It utilizes the TMDB API for movie data and Appwrite for backend services, enabling it to track and display trending movie searches.  You can check out the live website here: [https://moodflixmovies.netlify.app/](https://moodflixmovies.netlify.app/)
+Moodflix is a React application that allows users to search for movies and view trending films. It utilizes the TMDB API for movie data and Appwrite for backend services, enabling it to track and display trending movie searches.
 
 ## Features
 
